@@ -1,6 +1,8 @@
 # tailwindspring
 
 
+
+
 ```sh
 npm init -y
 npm install -D tailwindcss@3
@@ -23,4 +25,10 @@ npm run tailwind:watch
   
   },
 ...
+```
+
+Execução simples:
+
+```sh
+npm run tailwind:watch & ./mvnw spring-boot:run
 ```
